@@ -1,0 +1,59 @@
+[
+    {
+        "id": 0,
+        "section1": [
+            {
+                "title": "STAGE 1",
+                "text": "Stage 1 will focus on the power of networking by helping each other and expanding through brand collaborations."
+            }
+        ],
+        "section2": [
+            {
+                "title": "BLOOM PAD",
+                "text": "An Accelerator & Incubator Program for holders to create NFTs/stories in the world of Bloom Town."
+            }
+        ],
+        "section3": [
+            {
+                "title": "COMPANION NFT",
+                "text": "Bloom Town is filled with wonderful and dreamy critters, our plan is to introduce the Bloom World with a companion NFT and create many stories under our brand."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "section1": [
+            {
+                "title": "STAGE 2",
+                "text": "Stage 2 will be working towards expanding the brand and bringing it to mainstream consumption."
+            }
+        ],
+        "section2": [
+            {
+                "title": "BOARDGAME/MERCHANDISE",
+                "text": " As part of establishing and expanding Bloom Buddies, we are planning on Kickstarter several games and merchandise, 10% of all earnings will go back to our holders with special discounts and earning opportunities. Parallelly launching our coin for staking and earning purposes."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "section1": [
+            {
+                "title": "STAGE 3",
+                "text": "Expanding the brand and bringing value to our coin and for our holders"
+            }
+        ],
+        "section2": [
+            {
+                "title": "BLOOM TOWN APP",
+                "text": "The app will help players track their earnings from the RPG game and can control their character stats/actions when the story progresses."
+            }
+        ],
+        "section3": [
+            {
+                "title": "BLOOM TOWN ADVENTURES",
+                "text": "With an amalgamation of great storytellers and RPG creators on our team, we plan to expand and create BloomTown into a 100% on-chain NFT game. A town where players can use other NFT characters (for example CoolCats, WonderPals, Invisible Friends, etc.) in our story with Hero Packs. Players will have chances to earn unique 1/1 items and can resell or stake them to earn in the game. To engage our users in a playful manner."
+            }
+        ]
+    }
+]
