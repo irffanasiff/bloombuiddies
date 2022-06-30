@@ -18,7 +18,7 @@ import HeroSVG from '../Assets/hero.svg';
 import { motion } from 'framer-motion';
 import { HiMenuAlt4 } from 'react-icons/hi';
 import { useParallax } from 'react-scroll-parallax';
-import { BsTwitter, BsInstagram } from 'react-icons/bs';
+import { BsTwitter } from 'react-icons/bs';
 import { FaDiscord } from 'react-icons/fa';
 
 const MotionCenter = motion(Center);
@@ -191,7 +191,6 @@ const Hero = ({ aboutUsRef, planRef, faqRef, teamRef }) => {
             <HStack spacing='2rem'>
               <BsTwitter size={32} />
               <FaDiscord size={34} />
-              <BsInstagram size={32} />
             </HStack>
           </Container>
           {/* Hero */}
@@ -234,7 +233,7 @@ const Hero = ({ aboutUsRef, planRef, faqRef, teamRef }) => {
                 objectPosition='center'
                 src={HeroSVG}
                 w='100vw'
-                h={{ base: '20rem', md: '40rem', lg: '50rem' }}
+                h={{ base: '22rem', md: '40rem', lg: '85vh' }}
               />
             </MotionBox>
             <Center

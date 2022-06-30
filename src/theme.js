@@ -12,6 +12,18 @@ const theme = extendTheme({
   fonts: {
     body: 'Roboto',
   },
+  components: {
+    Button: {
+      baseStyle: {
+        _focus: {
+          boxShadow: 'none',
+        },
+        _hover: {
+          backgroundColor: 'none',
+        },
+      },
+    },
+  },
   styles: {
     global: {
       'html, body': {

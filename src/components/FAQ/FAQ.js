@@ -73,7 +73,10 @@ const Faq = ({ scrollRef }) => {
             {({ isExpanded }) => (
               <>
                 <h2>
-                  <AccordionButton>
+                  <AccordionButton
+                    _hover={{ boxShadow: 'none' }}
+                    _focus={{ boxShadow: 'none' }}
+                  >
                     <Box
                       fontSize={{ base: 'md', md: 'xl' }}
                       flex='1'
@@ -111,7 +114,10 @@ const Faq = ({ scrollRef }) => {
             {({ isExpanded }) => (
               <>
                 <h2>
-                  <AccordionButton>
+                  <AccordionButton
+                    _hover={{ boxShadow: 'none' }}
+                    _focus={{ boxShadow: 'none' }}
+                  >
                     <Box
                       fontSize={{ base: 'md', md: 'xl' }}
                       flex='1'
@@ -148,7 +154,10 @@ const Faq = ({ scrollRef }) => {
             {({ isExpanded }) => (
               <>
                 <h2>
-                  <AccordionButton>
+                  <AccordionButton
+                    _hover={{ boxShadow: 'none' }}
+                    _focus={{ boxShadow: 'none' }}
+                  >
                     <Box
                       fontSize={{ base: 'md', md: 'xl' }}
                       flex='1'
@@ -184,7 +193,10 @@ const Faq = ({ scrollRef }) => {
             {({ isExpanded }) => (
               <>
                 <h2>
-                  <AccordionButton>
+                  <AccordionButton
+                    _hover={{ boxShadow: 'none' }}
+                    _focus={{ boxShadow: 'none' }}
+                  >
                     <Box
                       fontSize={{ base: 'md', md: 'xl' }}
                       flex='1'
@@ -222,7 +234,10 @@ const Faq = ({ scrollRef }) => {
             {({ isExpanded }) => (
               <>
                 <h2>
-                  <AccordionButton>
+                  <AccordionButton
+                    _hover={{ boxShadow: 'none' }}
+                    _focus={{ boxShadow: 'none' }}
+                  >
                     <Box
                       fontSize={{ base: 'md', md: 'xl' }}
                       flex='1'
@@ -260,7 +275,10 @@ const Faq = ({ scrollRef }) => {
             {({ isExpanded }) => (
               <>
                 <h2>
-                  <AccordionButton>
+                  <AccordionButton
+                    _hover={{ boxShadow: 'none' }}
+                    _focus={{ boxShadow: 'none' }}
+                  >
                     <Box
                       fontSize={{ base: 'md', md: 'xl' }}
                       flex='1'
@@ -296,7 +314,10 @@ const Faq = ({ scrollRef }) => {
             {({ isExpanded }) => (
               <>
                 <h2>
-                  <AccordionButton>
+                  <AccordionButton
+                    _hover={{ boxShadow: 'none' }}
+                    _focus={{ boxShadow: 'none' }}
+                  >
                     <Box
                       fontSize={{ base: 'md', md: 'xl' }}
                       flex='1'
@@ -334,7 +355,10 @@ const Faq = ({ scrollRef }) => {
             {({ isExpanded }) => (
               <>
                 <h2>
-                  <AccordionButton>
+                  <AccordionButton
+                    _hover={{ boxShadow: 'none' }}
+                    _focus={{ boxShadow: 'none' }}
+                  >
                     <Box
                       fontSize={{ base: 'md', md: 'xl' }}
                       flex='1'
